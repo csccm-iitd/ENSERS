@@ -1,7 +1,7 @@
 # Energy Network for State Estimation with Random Sensors (ENSERS)
 *Model for learning from spare training labels capable to predicting full states given varied no. of sensors at random locations.*
 
-*Yash Kumara, Souvik Chakraborty*
+*Yash Kumara,Tushar, Souvik Chakraborty*
 
 ## Network architecture 
 
