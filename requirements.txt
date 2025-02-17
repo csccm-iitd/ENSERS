@@ -1,0 +1,6 @@
+matplotlib==3.4.2
+numpy==1.20.3
+scipy==1.6.3
+prettytable==2.1.0
+higher==0.2.1
+h5py==2.10.0
