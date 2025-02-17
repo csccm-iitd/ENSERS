@@ -60,9 +60,3 @@ make rmcontainer
 
 ![Flow Past Cylinder](./img/predDataTest0_epoch2400.png "Flow Past Cylinder") -->
 
-## Citation
-Find this useful or like this work? Cite us with:
-```latex
-@article{}
-}
-```
